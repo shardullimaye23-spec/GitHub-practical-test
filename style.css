@@ -28,3 +28,11 @@ button {
     border-radius: 8px;
     cursor: pointer;
 }
+/* Navbar hover effect */
+nav a {
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #007bff;
+}
