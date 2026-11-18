@@ -28,3 +28,11 @@ button {
     border-radius: 8px;
     cursor: pointer;
 }
+/* Footer styling */
+footer {
+    background-color: #202b48;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
